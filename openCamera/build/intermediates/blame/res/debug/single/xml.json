@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/build/intermediates/res/merged/debug/xml/widget_info.xml",
+        "source": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/build/intermediates/res/merged/debug/xml/widget_info_take_photo.xml",
+        "source": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/src/main/res/xml/widget_info_take_photo.xml"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/src/main/res/xml/preferences.xml"
+    }
+]

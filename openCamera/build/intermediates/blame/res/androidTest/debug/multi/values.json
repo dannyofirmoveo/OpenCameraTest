@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/OverDare/OpenCameraTest/openCamera/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 56,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    }
+]
